@@ -11,19 +11,99 @@ body{
 #header{
     background: #ebebeb;
     text-align: center;
-    margin-left: 140px;
     width: 1300px;
+    margin-left: 150px;
 }
 
 #nav{
     background: #ebebeb;
     text-align: center;
-    margin-left: 140px;
     margin-top: -9px;
     width: 1300px;
+    margin-left: 150px;
+}
+
+#aside{
+    background: #ebebeb;
+    text-align: center;
+    width: 735px;
+    float: left;
+    margin-left: 150px;
+    height: 258px;
+}
+
+#section{
+    background: #ebebeb;
+    text-align: center;
+    width: 550px;
+    float: left;
+    margin-left: 15px;
+    height: 258px;
+}
+
+.Paside{
+    color: #777;
+    padding: 5px; 
+}
+
+.Psection{
+    color: #777;
+    padding: 5px;
 }
 
 p{
-    color: rgb(22, 20, 20);
+    color: #777;
     padding: 40px;
 }
+
+.article{
+    background-color: #777;
+    widows: 700px;
+    margin-left: 17;
+    height: 160;
+    margin-top: 30px;
+    margin-bottom: 17;
+    width: 700px;
+}   
+
+.ClassArticle {
+    padding: 15px;
+}
+
+.subBoxes1{
+    background-color:#ebebeb;
+    height: 45px;
+    margin-left: 25px;
+    width: 650px;
+    margin-top: -27px;
+}
+
+.PsubBoxes1{
+    padding:15px;
+}
+
+.subBoxes2{
+    background-color:#ebebeb;
+    height: 45px;
+    margin-left: 25px;
+    width: 650px;
+    margin-top: -7px;
+}
+
+.PsubBoxes2{
+    padding:15px;
+}
+
+#footer1{
+    background-color: #ebebeb;
+    height: 100;
+    width: 1300px;
+    margin-left: 150px;
+    margin-top: 294;
+    text-align: center;
+}
+
+.container {
+    width: 1500px;
+    margin: 0 auto;  
+    }
